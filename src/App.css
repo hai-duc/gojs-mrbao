@@ -1,0 +1,9 @@
+.App{
+  overflow-x: hidden;
+}
+.diagram-component {
+  width: 100%;
+  height: 700px;
+  border: solid 1px black;
+  background-color: white;
+}
